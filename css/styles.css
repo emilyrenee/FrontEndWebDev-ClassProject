@@ -385,17 +385,10 @@ input.button:hover {
 }
 
 footer {
-<<<<<<< HEAD
     background-color: #333333;
     color: #F2F2F2;
 }
 
-=======
-  background-color: #333333;
-  color: #F2F2F2;
-  font-size: 75%;
-  padding-bottom: 1em;
-}
 
 .text-left {
   text-align: center;
