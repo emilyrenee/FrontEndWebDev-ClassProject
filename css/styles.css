@@ -333,7 +333,11 @@ input.button:hover {
     text-transform: uppercase;
     font-weight: 700;
     height: 40px;
+<<<<<<< HEAD
     float: right;
+=======
+    margin: 0 0 10px 0;
+>>>>>>> f9781ede9cf567bf863c12f97d8f17b8362ff503
     display: block;
 }
 
@@ -381,9 +385,26 @@ input.button:hover {
 }
 
 footer {
+<<<<<<< HEAD
     background-color: #333333;
     color: #F2F2F2;
 }
+
+=======
+  background-color: #333333;
+  color: #F2F2F2;
+  font-size: 75%;
+  padding-bottom: 1em;
+}
+
+.text-left {
+  text-align: center;
+}
+
+.text-right {
+  text-align: center;
+}
+
 
 
 /* ==========================================================================
@@ -414,4 +435,12 @@ footer {
     width: 20%;
   }
 
-}
+
+  .text-left {
+    text-align: left;
+  }
+
+  .text-right {
+    text-align: right;
+  }
+} 

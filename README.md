@@ -151,3 +151,5 @@ Let's add a google map with a pin on our restaurant.
 2.) Follow the instructions on Google's website to embed google maps on your site. (https://developers.google.com/maps/documentation/javascript/adding-a-google-map)
 
 You can choose to place your pin anywhere on the map. 
+6.) Test your site by either shrinking the size of your browser, or using the Device Toolbar in Google Chrome.
+
